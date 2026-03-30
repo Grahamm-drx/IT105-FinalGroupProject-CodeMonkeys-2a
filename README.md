@@ -6,8 +6,6 @@ This project is a **Student Management System** developed for IT 105 – Informa
 
 The system will simulate real-world academic processes such as managing student records, courses, and enrollments.
 
----
-
 ## 🎯 Project Scope
 
 The system will:
@@ -16,8 +14,6 @@ The system will:
 * Handle course and enrollment data
 * Support basic database operations (CRUD)
 * Ensure data integrity using relationships and constraints
-
----
 
 ## 👥 Group Members & Roles
 
@@ -29,4 +25,3 @@ The system will:
 * QA/Tester: Aljon M. Viñas
 * Documentation Lead: Derick N. Briones
 * Security Officer: 
-
