@@ -17,11 +17,9 @@ The system will:
 
 ## 👥 Group Members & Roles
 
-(To be updated)
-
 * Project Manager: John Drex F. Cantor
 * Database Administrator (DBA): Dan Francis S. Etorma
-* SQL Developer:
-* QA/Tester: Aljon M. Viñas
+* SQL Developer: Kyle Mathew A. Namia
+* QA/Tester: Ryecco Adrian B. Sambajon / Aljon M. Viñas
 * Documentation Lead: Derick N. Briones
-* Security Officer: 
+* Security Officer: Gabriel Meshach G. Salcedo
